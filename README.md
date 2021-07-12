@@ -13,8 +13,8 @@
 - [Recently viewed products support for Varnish/Turpentine](https://github.com/fballiano/magento-turpentine-recently-viewed)
 - [Default category sort order direction](https://github.com/fballiano/magento-category-sort-direction)
 
-## My Magento2 modules:
-- [Defer Javascripts](https://github.com/fballiano/magento2-defer-javascripts)
+## My Magento2 projects:
+- [Defer Javascripts Module](https://github.com/fballiano/magento2-defer-javascripts)
 - [Docker Magento2: Varnish + PHP7 + Redis + SSL cluster ready docker-compose infrastructure](https://github.com/fballiano/docker-magento2)
 
 ## Others:
