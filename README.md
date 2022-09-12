@@ -15,7 +15,7 @@
 
 ## My Magento2 projects:
 - [Defer Javascripts Module](https://github.com/fballiano/magento2-defer-javascripts)
-- [Docker Magento2: Varnish + PHP7 + Redis + SSL cluster ready docker-compose infrastructure](https://github.com/fballiano/docker-magento2)
+- [Docker Magento2: Cluster ready Magento2 + Varnish 7 + PHP 8.1 + Redis 6.2 + Elasticsearch 7.17 + SSL infrastructure](https://github.com/fballiano/docker-magento2)
 
 ## Others:
 - [Magento utilities for HomeBrew](https://github.com/fballiano/homebrew-mageutils)
