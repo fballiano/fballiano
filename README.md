@@ -15,6 +15,7 @@
 - [Default category sort order direction](https://github.com/fballiano/openmage-category-sort-direction)
 
 ## My Magento2 projects:
+- [devenv.sh environment for Magento2 development](https://github.com/fballiano/magento2-devenv)
 - [Defer Javascripts](https://github.com/fballiano/magento2-defer-javascripts)
 - [Default category sort order direction](https://github.com/fballiano/magento2-category-sort-direction)
 - [Docker Magento2: Cluster ready Magento2 + Varnish 7 + PHP 8.1 + Redis 6.2 + Elasticsearch 7.17 + SSL infrastructure](https://github.com/fballiano/docker-magento2)
