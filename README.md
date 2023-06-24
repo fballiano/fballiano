@@ -10,7 +10,7 @@
 - [Empty categories hider](https://github.com/fballiano/magento-hide-empty-categories)
 - [Cache regeneration lock](https://github.com/fballiano/magento-cache-regeneration-lock)
 - [Full catalog translate via Google Translate or others](https://github.com/fballiano/magento-full-catalog-translate)
-- [Defer Javascripts](https://github.com/fballiano/magento-defer-javascripts)
+- [Defer Javascripts](https://github.com/fballiano/openmage-defer-javascripts)
 - [Recently viewed products support for Varnish/Turpentine](https://github.com/fballiano/magento-turpentine-recently-viewed)
 - [Default category sort order direction](https://github.com/fballiano/openmage-category-sort-direction)
 
