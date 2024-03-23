@@ -3,7 +3,7 @@
   <img height=165 src="https://github-profile-trophy.vercel.app/?username=fballiano&column=5&theme=alduin" />
 </p>
 
-<table><tr><td align=center>
+<table align=center><tr><td align=center>
 <strong>If you find my work valuable, please consider sponsoring</strong><br />
 <a href="https://github.com/sponsors/fballiano" target=_blank title="Sponsor me on GitHub"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="Sponsor me on GitHub" /></a>
 <a href="https://www.buymeacoffee.com/fballiano" target=_blank title="Buy me a coffee"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" /></a>
