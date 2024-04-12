@@ -13,11 +13,12 @@
 ## My Magento1/OpenMage modules:
 - [Orphan images cleaner](https://github.com/fballiano/magento1-image-cleaner)
 - [Autodelete product images](https://github.com/fballiano/magento-autodelete-product-images)
+- [CloudFlare Turnstile](https://github.com/fballiano/openmage-cloudflare-turnstile)
+- [Defer Javascripts](https://github.com/fballiano/openmage-defer-javascripts)
 - [devenv.sh environment for OpenMage development](https://github.com/fballiano/openmage-devenv)
 - [Empty categories hider](https://github.com/fballiano/magento-hide-empty-categories)
 - [Cache regeneration lock](https://github.com/fballiano/magento-cache-regeneration-lock)
 - [Full catalog translate via Google Translate or others](https://github.com/fballiano/magento-full-catalog-translate)
-- [Defer Javascripts](https://github.com/fballiano/openmage-defer-javascripts)
 - [Recently viewed products support for Varnish/Turpentine](https://github.com/fballiano/magento-turpentine-recently-viewed)
 - [Default category sort order direction](https://github.com/fballiano/openmage-category-sort-direction)
 
