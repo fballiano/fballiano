@@ -14,7 +14,7 @@
 - [Orphan images cleaner](https://github.com/fballiano/magento1-image-cleaner)
 - [Autodelete product images](https://github.com/fballiano/magento-autodelete-product-images)
 - [CloudFlare Turnstile](https://github.com/fballiano/openmage-cloudflare-turnstile)
-- [CSS/JS versioning based on last git commit hash]([https://github.com/fballiano/openmage-defer-javascripts](https://github.com/fballiano/openmage-cssjs-versioning))
+- [CSS/JS versioning based on last git commit hash](https://github.com/fballiano/openmage-cssjs-versioning)
 - [Defer Javascripts](https://github.com/fballiano/openmage-defer-javascripts)
 - [devenv.sh environment for OpenMage development](https://github.com/fballiano/openmage-devenv)
 - [Empty categories hider](https://github.com/fballiano/magento-hide-empty-categories)
